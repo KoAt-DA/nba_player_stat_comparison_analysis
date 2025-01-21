@@ -48,6 +48,11 @@ Points: LeBron James predicted Points average 26.7 is almost the same as the act
 Rebounds: LeBron James's predicted Rebounds average (8.27) is 0.97 higher than the actual value (7.3). This might indicate a potential inconsistency in performance metrics or a situational factor affecting play. Although the predicted minutes (34.54) closely align with the actual minutes (35.3), reviewing recent gameplay or lineup adjustments could provide valuable insights into this disparity.
 Assist: LeBron James predicted Assist average 8.05 is almost the same as the actual value 8.3.It was a good prediction!
 
+## Data Visualization
+
+In addition to the scripts, I created Power BI visualizations to provide a more intuitive and interactive way of analyzing the NBA player statistics. These visualizations allow users to explore trends, compare player performance, and gain deeper insights into the dataset.
+Feel free to browse the Screenshots folder for few images!
+
 ## Requirements
 
 - **Python 3.7+**
