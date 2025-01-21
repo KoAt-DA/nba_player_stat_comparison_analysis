@@ -9,7 +9,7 @@ This project aims to analyze and compare NBA players' performance metrics (Point
 ## Setup
 
 To run the project, you'll need to set up your database connection information in an .env file. The format for the connection URL is as follows:
-DB_URL='postgresql+psycopg2://<YourUsername>:<YourPassword>@localhost:5432/<YourDatabaseName>'
+DB_URL='postgresql+psycopg2://YourUsername:YourPassword@localhost:5432/YourDatabaseName'
 
 Replace <YourUsername>, <YourPassword>, and <YourDatabaseName> with your actual PostgreSQL username, password, and database name, respectively.
 
