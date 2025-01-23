@@ -1,4 +1,4 @@
-Copyright 2025 Attila Kormos(KoAt-DA). All Rights Reserved.
+Copyright 2025 KoAt-DA. All Rights Reserved.
 
 # NBA player stat comparison analysis
 
