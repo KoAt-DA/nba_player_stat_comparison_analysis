@@ -28,10 +28,10 @@ In the Python script, the connection to the database is established using the DB
 
 ## Script Files
 
-- **01_data_to_SQL.py**: Loads data into an SQL database. Make sure you have a working SQL database to run this script.
-- **02_data_processing.py**: The script connects to an SQL database and loads NBA player data for selected players, filters it for analysis, and extracts specific metrics (Points, Rebounds, Assists, and Minutes). It then prepares the data in a structured format for further analysis or machine learning purposes.
-- **03_ml_stat_prediction.py**: Uses machine learning techniques (like Linear Regression) to predict NBA player statistics for the 2023-24 season. This model requires the all_season.csv dataset for training.
-- **04_stat_comparison.py**: This script is comparing predicted stats for the real stats from the 2023-24 season.
+- **data_to_SQL.py**: Loads data into an SQL database. Make sure you have a working SQL database to run this script.
+- **data_processing.py**: The script connects to an SQL database and loads NBA player data for selected players, filters it for analysis, and extracts specific metrics (Points, Rebounds, Assists, and Minutes). It then prepares the data in a structured format for further analysis or machine learning purposes.
+- **ml_stat_prediction.py**: Uses machine learning techniques (like Linear Regression) to predict NBA player statistics for the 2023-24 season. This model requires the all_season.csv dataset for training.
+- **stat_comparison.py**: This script is comparing predicted stats for the real stats from the 2023-24 season.
 - **players_stats.py**: This script manually creates a DataFrame based on the player statistics for the player_stats.csv file.
 
 ## Run Order
@@ -67,5 +67,7 @@ Feel free to browse the Screenshots folder for few images!
 ## Conclusion
 
 This project provides an in-depth analysis of NBA players' statistical performance, allowing comparisons between predicted values and actual results for the 2023-24 season. With the help of historical data and machine learning, the tool aims to uncover hidden patterns and potential anomalies in player performance. Future improvements might include incorporating additional metrics, expanding the machine learning model to incorporate more data, or fine-tuning the predictions with other algorithms.
+
+Feedback are welcome!
 
 ENJOY ANALYZING NBA PLAYERS STATS!
