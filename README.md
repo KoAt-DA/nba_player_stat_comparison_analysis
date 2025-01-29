@@ -71,3 +71,7 @@ This project provides an in-depth analysis of NBA players' statistical performan
 Feedback are welcome!
 
 ENJOY ANALYZING NBA PLAYERS STATS!
+
+## Please feel free to contact me:
+
+LinkedIn: https://www.linkedin.com/in/attila-kormos-8a0ba9348/
